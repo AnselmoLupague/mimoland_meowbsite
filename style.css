@@ -1,0 +1,40 @@
+html {
+    background-color: skyblue;
+}
+h1 {
+    font-size: 40px;
+    font-family: 'Luckiest Guy', cursive;
+    text-align: center;
+    margin: 0;
+    padding: 20px 0 0 0;
+    color: darkseagreen;
+    text-shadow: 3px 3px 3px white;
+}
+h2 {
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    color: royalblue;
+}
+img {
+    display: block;
+    margin: 0 auto;
+}
+p {
+    font-family: 'Chilanka', cursive;
+}
+li {
+    font-family: 'Courier Prime', monospace;
+}
+p1 {
+    color: blue;
+    text-shadow: 3px 3px 3px white;
+}
+p2 {
+    color: red;
+    text-shadow: 3px 3px 3px white;
+}
+h3 {
+    font-family: 'Press Start 2P', cursive;
+    color: slategray;
+    text-align: center;
+}
